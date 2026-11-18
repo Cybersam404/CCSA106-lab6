@@ -4,7 +4,7 @@ Lab report and demonstration for CCSA106 (Check Point CCSA, ICDFA).
 
  - **Student:** Jegede Samuel Aduragbemi
 - **Report:** [CCSA106_Lab06_C11_26_CCSA_17113.pdf](CCSA106_Lab06_C11_26_CCSA_17113.pdf)
-- **Demo video:** 
+- **Demo video:** https://drive.google.com/file/d/1_P3DiDJ9p5xyvemr5ZxiK-aIv0ufVkRU/view?usp=sharing
 
 ## What the report covers
 
